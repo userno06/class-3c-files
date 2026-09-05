@@ -108,6 +108,11 @@
         image: 'IMAGES/CHA.jpg',
         role: 'COUNCILOR',
         description: 'NAME: CHARMAINE JOY BALADHAY\n"When the time is right, I, the Lord, will make it happen Isaiah 60:22"'
+    },{
+        alias: 'MYLZE',
+        image: 'IMAGES/MYLZE.jpg',
+        role: 'COUNCILOR',
+        description: 'NAME: MYLZWYNE BATIANCILA\n"Kung puso mo ay palaging bigo at sawi, baka naman mukha at wallet lang ang iyong pinipili."'
     },];
 
     total.textContent = String(students.length).padStart(2, '0');
