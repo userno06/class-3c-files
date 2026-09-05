@@ -73,7 +73,7 @@ If you are the copyright owner and believe that your work has been used improper
 
 ---
 
-#Credits
+Credits
 
 ### Website / Development
 **KOI / Jhon Michael Trio**
