@@ -6,7 +6,7 @@ The website showcases the students, personalities, information, and memories of 
 
 ---
 
-##About the Project
+About the Project
 
 **CLASS C FILES** is a creative web project designed to present our class as a digital archive.
 
@@ -26,7 +26,7 @@ The goal is to turn a simple class directory into a more immersive and memorable
 
 ---
 
-##Design Inspiration
+Design Inspiration
 
 The visual direction of this website was inspired by the creative and experimental web design approach of:
 
@@ -49,7 +49,7 @@ All original content, student information, graphics, code, and design decisions 
 
 ---
 
-##Copyright
+Copyright
 
 © 2026 KOI / Jhon Michael Trio. All rights reserved.
 
@@ -59,7 +59,7 @@ You may view and study the project, but please do not redistribute, reproduce, o
 
 ---
 
-## Music Copyright Disclaimer
+Music Copyright Disclaimer
 
 The music used on this website is **not owned by KOI**.
 
@@ -96,7 +96,7 @@ Student names, photographs, descriptions, and other personal content belong to t
 
 ---
 
-## ✦ Technology
+Technology
 
 This project was built using:
 
@@ -110,7 +110,7 @@ This project was built using:
 
 ---
 
-## Disclaimer
+Disclaimer
 
 CLASS C FILES is an educational/student project.
 
@@ -118,7 +118,7 @@ This website is created for academic, portfolio, and demonstration purposes. It 
 
 ---
 
-## © 2026 KOI
+© 2026 KOI
 
 **CLASS C FILES**
 
