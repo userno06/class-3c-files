@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>CLASS C — STUDENT ARCHIVE</title>
+    <link rel="stylesheet" href="class.css" />
+</head>
+<body>
+    <header class="navbar">
+        <a href="index.html" class="logo">koi</a>
+        <nav class="nav-links">
+            <a href="index.html"><span>00</span>HOME</a>
+            <a href="cLass.html" class="current"><span>01</span>CLASS</a>
+            <a href="about.html"><span>02</span>ABOUT</a>
+            <a href="contact.html"><span>03</span>CONTACT</a>
+        </nav>
+        <button class="menu-button" id="menuButton" aria-label="Open menu" aria-expanded="false">
+            <span></span><span></span>
+        </button>
+    </header>
+
+    <div class="menu-overlay" id="menuOverlay">
+        <div class="menu-header">
+            <div class="menu-logo">CLASS C FILES</div>
+            <button class="close-button" id="closeButton" aria-label="Close menu">CLOSE</button>
+        </div>
+        <nav class="fullscreen-nav">
+            <a href="index.html"><span>00</span>HOME</a>
+            <a href="cLass.html"><span>01</span>CLASS</a>
+            <a href="about.html"><span>02</span>ABOUT</a>
+            <a href="contact.html"><span>03</span>CONTACT</a>
+        </nav>
+        <div class="menu-footer">
+            <span>BSIT — CLASS C</span>
+            <span>2026</span>
+        </div>
+    </div>
+
+    <main class="archive-page">
+        <div class="archive-top">
+            <span>01 — STUDENT ARCHIVE</span>
+            <span>SCROLL TO EXPLORE</span>
+        </div>
+
+        <div class="center-line"></div>
+
+        <div class="student-photo-panel" id="photoPanel">
+            <button class="nav-arrow prev" id="prevBtn" aria-label="Previous student">‹</button>
+            <button class="nav-arrow next" id="nextBtn" aria-label="Next student">›</button>
+        </div>
+
+        <div class="student-info">
+            <div class="info-content" id="infoContent">
+                <span class="info-number" id="infoNumber">01 / CLASS C</span>
+                <h2 class="info-name" id="infoName">KOI</h2>
+                <div class="info-line"></div>
+                <p class="info-description" id="infoDescription">Creative developer who enjoys building interactive digital experiences.</p>
+                <div class="info-meta">
+                    <span id="infoRole">STUDENT</span>
+                    <span>BSIT — 2026</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="student-viewport" id="studentViewport">
+            <div class="student-list" id="studentList"></div>
+        </div>
+
+        <div class="scroll-hint" id="scrollHint">SCROLL ↓</div>
+        <div class="page-counter">
+            <strong id="currentNumber">01</strong> / <span id="totalNumber">10</span>
+        </div>
+
+        <audio id="classSong" preload="metadata" loop src="class-song.mp3"></audio>
+        <button class="archive-play-button" id="playButton">
+            <span class="play-icon">▶</span>
+            <span class="play-text">PLAY SONG</span>
+        </button>
+    </main>
+
+    <script src="class.js"></script>
+</body>
+</html>
