@@ -57,7 +57,7 @@
         alias: 'KOI',
         image: 'IMAGES/koiii.jpg',
         role: 'ESCORT',
-        description: 'NAME: JHON MICHAEL TRIO\n"I can fix my code, but not what we had"'
+        description: 'NAME: JHON MICHAEL TRIO\n“May GitHub, walang ka-hug.”'
     }, {
         alias: 'TIMO',
         image: 'IMAGES/GERALD.jpg',
