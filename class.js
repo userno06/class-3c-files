@@ -107,7 +107,7 @@
         alias: 'CHA',
         image: 'IMAGES/CHA.jpg',
         role: 'COUNCILOR',
-        description: 'NAME: CHARMAINE JOY BALADHAY\n"When the time is right, I, the Lord, will make it happen Isaiah 60:22"'
+        description: 'NAME: CHARMAINE JOY BALADHAY\n"Nag-aaral lang ako kasi required"'
     },{
         alias: 'MYLZE',
         image: 'IMAGES/MYLZE.jpg',
