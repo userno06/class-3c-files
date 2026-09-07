@@ -117,8 +117,8 @@
         alias: 'MANONG',
         image: 'IMAGES/KEN.jpeg',
         role: 'STUDENT',
-        description: 'NAME: JHON KHENNETH GAYAPA\n"The older the age, The sweeter the taste💦"'
-    },];
+        description: 'NAME: JHON KHENNETH GAYAPA\n"The older the age, The sweeter the taste"'
+    }];
 
     total.textContent = String(students.length).padStart(2, '0');
 
