@@ -113,7 +113,7 @@
         image: 'IMAGES/MYLZE.jpg',
         role: 'COUNCILOR',
         description: 'NAME: MYLZWYNE BATIANCILA\n"Kung puso mo ay palaging bigo at sawi, baka naman mukha at wallet lang ang iyong pinipili."'
-    },,{
+    },{
         alias: 'MANONG',
         image: 'IMAGES/KEN.jpeg',
         role: 'STUDENT',
