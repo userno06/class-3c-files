@@ -55,7 +55,7 @@
 
     const students = [{
         alias: 'KOI',
-        image: 'IMAGES/koiii.png',
+        image: 'IMAGES/koi.png',
         role: 'ESCORT',
         description: 'NAME: JHON MICHAEL TRIO\n“May GitHub, walang ka-hug.”'
     }, {
